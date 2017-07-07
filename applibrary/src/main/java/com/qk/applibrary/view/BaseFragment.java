@@ -8,7 +8,6 @@ import android.view.ViewGroup;
 
 /**
  * 碎片基类
- * Created by acer on 2015-10-20.
  */
 public abstract class BaseFragment extends Fragment {
     protected ProgressDialog loadingProgressDialog; //请求网络弹出加载框
